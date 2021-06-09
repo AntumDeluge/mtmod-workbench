@@ -1,0 +1,5 @@
+
+v1.0
+----
+- forked/extracted from xdecor mod
+- added method to register items as repairable
