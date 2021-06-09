@@ -1,1 +1,1 @@
-A mod adding a Work Bench for Minetest.
+A workbench for repairing tools.
